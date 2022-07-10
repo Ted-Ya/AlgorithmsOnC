@@ -1,7 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
-//caculate both number the greatest comcon divisor
+//caculate both number the greatest common divisor
 int main()
 {
 	int n = 0;
